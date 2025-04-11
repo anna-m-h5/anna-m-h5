@@ -6,7 +6,7 @@ I’m an MLIS student at Drexel University, and in my current coursework, I'm le
 + metadata & resource description
 + information & social justice. 
 
-I would love to learn basic Python!!
+Outside of my courses, I would love to learn basic Python!!
 
 
 
