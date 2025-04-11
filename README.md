@@ -1,4 +1,4 @@
-## Hi there, I'm Anna 👋
+## Hi there, I'm Anna! :sun_with_face:
 Pronouns: she/her
 
 I’m an MLIS student at Drexel University, and in my current coursework, I'm learning about:
