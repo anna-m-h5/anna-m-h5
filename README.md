@@ -8,7 +8,7 @@ I’m an MLIS student at Drexel University, and in my current coursework, I'm le
 
 Outside of my courses, I would love to learn basic Python!!
 
-And I like to play board games, watch movies, and take long walks around Philly:sunflower:
+And I like to play board games, watch movies, and take long walks around Philly :sunflower:
 
 
 
