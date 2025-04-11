@@ -1,6 +1,8 @@
 ## Hi there, I'm Anna 👋
 Pronouns: she/her
+
 I’m an MLIS student at Drexel University, and in my current coursework, I'm learning about digital curation/stewardship, metadata & resource description, and information & social justice. 
+
 I would love to learn basic Python.
 
 <!--
