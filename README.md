@@ -3,7 +3,9 @@ Pronouns: she/her
 
 I’m an MLIS student at Drexel University, and in my current coursework, I'm learning about digital curation/stewardship, metadata & resource description, and information & social justice. 
 
-I would love to learn basic Python.
++ I would love to learn basic Python!!
+
+
 
 <!--
 **anna-m-h5/anna-m-h5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
