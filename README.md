@@ -2,13 +2,14 @@
 Pronouns: she/her
 
 I’m an MLIS student at Drexel University, and in my current coursework, I'm learning about:
-+ digital curation/stewardship
+
++ [data/digital curation](https://github.com/topics/data-curation)
 + metadata & resource description
 + information & social justice
 
-Outside of my courses, I would love to learn basic Python!!
+I'm passionate about public libraries, and right now, I'm most curious about cataloging and working with metadata. And outside of my courses, I would love to learn basic Python!!
 
-And I like to play board games, watch movies, and take long walks around Philly :sunflower:
+Outside of school, I love to play board games, watch movies, and explore the [Internet Archive](https://github.com/topics/internet-archive), and take long walks around Philly :sunflower:
 
 
 
