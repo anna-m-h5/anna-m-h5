@@ -7,9 +7,9 @@ I’m an MLIS student at Drexel University, and in my current coursework, I'm le
 + metadata & resource description
 + information & social justice
 
-I'm passionate about public libraries, and right now, I'm most curious about cataloging and working with metadata. And outside of my courses, I would love to learn basic Python!!
+I'm passionate about public libraries, and right now, I'm most curious about cataloging and working with metadata. Outside of my courses, I would love to learn basic Python!!
 
-Outside of school, I love to play board games, watch movies, and explore the [Internet Archive](https://github.com/topics/internet-archive), and take long walks around Philly :sunflower:
+Outside of school, I love to play board games, watch movies, explore the [Internet Archive](https://github.com/topics/internet-archive), and take long walks around Philly :sunflower:
 
 
 
